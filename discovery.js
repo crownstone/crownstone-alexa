@@ -79,8 +79,8 @@ function getResponseHandler(event, context) {
         let stoneEndpoint = {
           endpointId: stone.id,
           manufacturerName: 'Crownstone',
+          description: stone.type,
           friendlyName: stone.name,
-          friendlyDescription: stone.type,
           displayCategories: ["SWITCH"],
           cookie: {
             address: stone.address,

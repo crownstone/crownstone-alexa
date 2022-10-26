@@ -1,4 +1,4 @@
-# Summary
+# DEPRECATED, replaced by Crownstone-Lambda
 
 AWS Lambda function for initial deployment of Amazon Alexa Smart Home Skill
 
